@@ -7,6 +7,7 @@ Projects
 1. Basic ATM
 2. Rock Paper Scissors
 3. Driving Federation Eligibility Checker
+
 Getting Started
 Technologies Used
 License
@@ -26,6 +27,7 @@ How to run:
 
 bash
 python ATM.py
+
 2. Rock Paper Scissors
 
 A classic Rock Paper Scissors game where the user plays against the computer.
@@ -40,6 +42,7 @@ How to run:
 
 bash
 python game.py
+
 3. Driving Federation Eligibility Checker
 
 A website for a driving federation that checks whether an applicant is eligible to apply for a driving license based on their age.
